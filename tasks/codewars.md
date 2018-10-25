@@ -1,5 +1,5 @@
      13. https://www.codewars.com/kata/base-conversion/
-     19. http://www.codewars.com/kata/function-cache
+     
      20. http://www.codewars.com/kata/function-composition
      21. http://www.codewars.com/kata/function-composition-1
      22. http://www.codewars.com/kata/stringing-me-along
