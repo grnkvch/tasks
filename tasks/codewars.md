@@ -1,6 +1,5 @@
      13. https://www.codewars.com/kata/base-conversion/
      
-     23. http://www.codewars.com/kata/i-spy
      24. http://www.codewars.com/kata/calculating-with-functions
      25. http://www.codewars.com/kata/santaclausable-interface
      26. http://www.codewars.com/kata/new-with-apply
